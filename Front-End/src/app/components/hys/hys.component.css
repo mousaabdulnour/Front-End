@@ -1,0 +1,11 @@
+.row{
+    background-color:#a1b5cb ;
+    padding: 20px;
+    text-align: center;
+}
+h1{
+    font-size: 2rem;
+    color: springgreen;
+    padding-bottom: 50px;
+    text-align:left;
+}
