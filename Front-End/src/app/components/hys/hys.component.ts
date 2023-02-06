@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-hys',
+  selector:  'app-hys',
   templateUrl: './hys.component.html',
   styleUrls: ['./hys.component.css']
 })
